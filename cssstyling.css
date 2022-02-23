@@ -1,0 +1,31 @@
+body{
+			background-color: #000000;
+			font-family: Montserrat;
+			font-size: 18px;
+		}
+		.class1{
+			background-color:#212121;
+			padding: 10px;
+			text-align: center;
+			font-weight: bold;
+		}
+		a{
+			color:#FFD700;
+			font-family: Montserrat;
+			text-decoration:none;
+
+		}
+		img{
+			text-align: left;
+		}
+		a:hover{
+			color:white;
+			font-size:20px;
+		}
+		a:visited{
+			color:purple;
+			font-size:20px;
+		}
+		a:active{
+			color:grey;
+		}
